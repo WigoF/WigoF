@@ -21,6 +21,6 @@
   ##
   
 <div>
-  ![Snake animation](https://github.com/WigoF/WigoF/blob/main/.github/workflows/main.yml)
+  ![Snake animation](https://github.com/WigoF/WigoF/blob/output/github-contribution-grid-snake.svg)
 </div>
  
