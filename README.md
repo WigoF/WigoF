@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalhando com Front-End
-- 🌱 Estudando Kotlin e Python
+- 🌱 Estudando React e React Native
 - 📫 Contate-me no email: wigoferreira.055@gmail.com
 
 <div align="center">
